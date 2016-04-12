@@ -12,6 +12,7 @@
 		52E619A61C91F53100AC819D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52E619A41C91F53100AC819D /* Main.storyboard */; };
 		52E619A81C91F53100AC819D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52E619A71C91F53100AC819D /* Assets.xcassets */; };
 		52E619AB1C91F53100AC819D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52E619A91C91F53100AC819D /* LaunchScreen.storyboard */; };
+		52E619B31C91F90300AC819D /* macroons.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 52E619B21C91F90200AC819D /* macroons.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		52E619A71C91F53100AC819D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52E619AA1C91F53100AC819D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		52E619AC1C91F53100AC819D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52E619B21C91F90200AC819D /* macroons.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = macroons.jpg; path = ../macroons.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		52E6199F1C91F53100AC819D /* PhotFilters */ = {
 			isa = PBXGroup;
 			children = (
+				52E619B21C91F90200AC819D /* macroons.jpg */,
 				52E619A01C91F53100AC819D /* AppDelegate.swift */,
 				52E619A21C91F53100AC819D /* ViewController.swift */,
 				52E619A41C91F53100AC819D /* Main.storyboard */,
@@ -125,6 +128,7 @@
 				52E619AB1C91F53100AC819D /* LaunchScreen.storyboard in Resources */,
 				52E619A81C91F53100AC819D /* Assets.xcassets in Resources */,
 				52E619A61C91F53100AC819D /* Main.storyboard in Resources */,
+				52E619B31C91F90300AC819D /* macroons.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
